@@ -1,0 +1,1 @@
+adb push JAVA_SENDMSG/sendmsg.dex /data/local/tmp/ && adb push main /data/local/tmp/
